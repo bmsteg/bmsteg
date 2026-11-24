@@ -17,7 +17,11 @@ Trabajé en **Capgemini** y **Quares IT Solutions**. Hoy desarrollo y mantengo *
 | [**Gold Academia**](https://goldacademia.com.ar) | Academia de belleza: cursos, inscripciones y tienda con más de 100 productos. | Alta Gama |
 | [**Nueva Dermo**](https://nuevadermo.com.ar) | Academia de estética propia: sitio, tienda y certificados con código QR verificable. | Alta Gama · PHP · MongoDB |
 
-Los repositorios de estas plataformas son privados. Acá publico partes seleccionadas como ejemplo.
+Los repositorios de estas plataformas son privados. Publico partes seleccionadas como ejemplo:
+
+- 🧱 [**altagama-page-builder**](https://github.com/bmsteg/altagama-page-builder): renderizador de páginas por bloques (React 19, TypeScript, Tailwind 4, Vitest).
+- 🚀 [**deploy-con-rollback**](https://github.com/bmsteg/deploy-con-rollback): deploy de Next.js en VPS con build candidato, health check y vuelta atrás automática (Bash, systemd, Caddy, CI con GitHub Actions).
+- 🌐 [**maxistegman.com.ar**](https://github.com/bmsteg/maxistegman.com.ar): mi sitio personal.
 
 ### 🛠️ Con qué trabajo
 
